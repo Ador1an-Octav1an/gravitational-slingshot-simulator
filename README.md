@@ -32,7 +32,7 @@ This represents the heliocentric exit velocity as a function of the probe’s en
 ---
 ##  Example Output
 
-
+![Example Plot](example_plot.png)
 
 #  References
  *“Gravitational Assist.”* *MathPages*, [https://www.mathpages.com/home/kmath114/kmath114.htm](https://www.mathpages.com/home/kmath114/kmath114.htm). Accessed Jan. 2024.
@@ -45,5 +45,6 @@ pip install -r requirements.txt
 python main.py
 
 🪐🪐🪐🪐
+
 
 
